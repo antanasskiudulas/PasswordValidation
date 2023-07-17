@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Apn76+EjmVpwOErexeJ/icP3Dy1aga2EjSpVWnm6tPAUu8Xt8lk7IFkh9o7ldJUh3wH2wYNjcuSr/VTPm/jZaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antanas\\Documents\\PasswordValidator\\PasswordValidator.Tests\\PasswordValidator.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antanas\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\microsoft.codecoverage\\17.6.3\\microsoft.codecoverage.17.6.3.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.3\\microsoft.net.test.sdk.17.6.3.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.3\\microsoft.testplatform.objectmodel.17.6.3.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.3\\microsoft.testplatform.testhost.17.6.3.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

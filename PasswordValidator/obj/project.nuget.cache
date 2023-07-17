@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7wXXc9hZAXp4ATYVroemCenzojY0mofSItqO0tD9dU4wAxgQhmOQaB3dco2tD0PqUDXY/4552fDtEtznsxR3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antanas\\Documents\\PasswordValidator\\PasswordValidator\\PasswordValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antanas\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\Antanas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
